@@ -1,0 +1,5 @@
+python==3.6.8
+pytest==4.6.3
+pytest-rerunfailures==7.0
+selenium==3.13.0
+
